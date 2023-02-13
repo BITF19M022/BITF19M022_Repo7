@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         git.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri webpage = Uri.parse("https://github.com/tk34395/MC-Assignment04/commits/main");
+                Uri webpage = Uri.parse("https://github.com/BITF19M022/BITF19M022_Repo7");
                 Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
                 startActivity(intent);
             }

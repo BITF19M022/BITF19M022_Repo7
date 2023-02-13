@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="4dp"
         android:layout_marginTop="8dp"
-        android:background="#283655"
+        android:background="#9C5F02"
         app:layout_constraintTop_toBottomOf="@+id/ayah_translation"
         tools:layout_editor_absoluteX="0dp" />
 
@@ -23,7 +23,7 @@
         android:layout_marginEnd="16dp"
         android:fontFamily="@font/noorehuda"
         android:text="Ayah"
-        android:textColor="#283655"
+        android:textColor="#9C5F02"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -38,7 +38,7 @@
         android:layout_marginEnd="16dp"
         android:fontFamily="sans-serif"
         android:text="Translation"
-        android:textColor="#283655"
+        android:textColor="#9C5F02"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
